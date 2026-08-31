@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/job-outcome-coverage-901",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/job-outcome-coverage-901": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/job-outcome-coverage-901",
+    "origin"
+  ]
+}
